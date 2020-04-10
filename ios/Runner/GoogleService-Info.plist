@@ -7,7 +7,7 @@
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.898454793500-636o029o9f6jdm64174st45f8vi7n65e</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>898454793500-3jo5lff4v0q6n8o341cvu0c91g8d0gok.apps.googleusercontent.com</string>
+	<string>898454793500-hh4rht2daftf3d399gagoi63lquve93p.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
 	<string>AIzaSyBt-B62HNRe422684Jyksr5H9gM3Mq3LrM</string>
 	<key>GCM_SENDER_ID</key>
@@ -31,7 +31,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:898454793500:ios:9569cc2156a3e56d415ed9</string>
+	<string>1:898454793500:ios:d1a7cb8646f5cb2b415ed9</string>
 	<key>DATABASE_URL</key>
 	<string>https://flutter-console.firebaseio.com</string>
 </dict>
