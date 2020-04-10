@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "898454793500",
+    "firebase_url": "https://flutter-console.firebaseio.com",
+    "project_id": "flutter-console",
+    "storage_bucket": "flutter-console.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898454793500:android:d16fab12af2fcaa8415ed9",
+        "android_client_info": {
+          "package_name": "com.chemax.catBoxFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898454793500-hh4rht2daftf3d399gagoi63lquve93p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chemax.catBoxFirebase",
+            "certificate_hash": "cb97ef3e0b5b7e7be0e9d0e9d3a54564826702e3"
+          }
+        },
+        {
+          "client_id": "898454793500-q8agmo7drqhl0do7r3knn1dgpjg8d265.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuZpcSLOz8blvaWCEJBj1fIOKLIFeOmyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898454793500-q8agmo7drqhl0do7r3knn1dgpjg8d265.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "898454793500-636o029o9f6jdm64174st45f8vi7n65e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chemax.catBoxFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898454793500:android:aecb5aae04bd8c09415ed9",
+        "android_client_info": {
+          "package_name": "com.example.form_validation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898454793500-5o3rmageq13mhelg3maskgkkigjd9s4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.form_validation",
+            "certificate_hash": "cb97ef3e0b5b7e7be0e9d0e9d3a54564826702e3"
+          }
+        },
+        {
+          "client_id": "898454793500-q8agmo7drqhl0do7r3knn1dgpjg8d265.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuZpcSLOz8blvaWCEJBj1fIOKLIFeOmyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898454793500-q8agmo7drqhl0do7r3knn1dgpjg8d265.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "898454793500-636o029o9f6jdm64174st45f8vi7n65e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chemax.catBoxFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898454793500:android:a30c3c09c7468373415ed9",
+        "android_client_info": {
+          "package_name": "com.example.productos_proof_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898454793500-3jo5lff4v0q6n8o341cvu0c91g8d0gok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.productos_proof_provider",
+            "certificate_hash": "cb97ef3e0b5b7e7be0e9d0e9d3a54564826702e3"
+          }
+        },
+        {
+          "client_id": "898454793500-q8agmo7drqhl0do7r3knn1dgpjg8d265.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuZpcSLOz8blvaWCEJBj1fIOKLIFeOmyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898454793500-q8agmo7drqhl0do7r3knn1dgpjg8d265.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "898454793500-636o029o9f6jdm64174st45f8vi7n65e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chemax.catBoxFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
